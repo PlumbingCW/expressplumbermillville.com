@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://expressplumbermillville.com/sitemap.xml
